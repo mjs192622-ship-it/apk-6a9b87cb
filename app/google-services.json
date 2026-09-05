@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "10194857054",
+        "firebase_url": "https://mod-hub-27202-default-rtdb.firebaseio.com",
+        "project_id": "mod-hub-27202",
+        "storage_bucket": "mod-hub-27202.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:10194857054:android:0b9034b0fc664593b458cf",
+                "android_client_info": {
+                    "package_name": "com.modhub.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "10194857054-0v3m25v0td4ub5fu278qo25rvjjo110l.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBKec2ssogtmk8v5qkk0vQotGW-WGILZPU"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "10194857054-0v3m25v0td4ub5fu278qo25rvjjo110l.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
